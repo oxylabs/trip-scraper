@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Trip Scraper, you can smoothly glean public information from any Trip.com web page. Draw out crucial travel specifics such as flight details, hotel bookings, eateries, or locations, to plan your journey seamlessly and stay updated on your travel plan. If you encounter any hiccups, get in touch with our support team via live chat or email us at hello@oxylabs.io.
+With our Trip Scraper, you can smoothly glean public information from any Trip.com web page. Draw out crucial travel specifics such as flight details, hotel bookings, eateries, or locations, to plan your journey seamlessly and stay updated on your travel plan. If you encounter any hiccups, get in touch with our support team via live chat or email us at support@oxylabs.io.
